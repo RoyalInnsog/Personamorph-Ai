@@ -1,0 +1,5 @@
+{
+  "name": "PersonaMorph AI",
+  "description": "A high-end AI image transformation app that creates stunning female versions of uploaded photos and allows for text-based image editing using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
